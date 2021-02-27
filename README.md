@@ -8,3 +8,5 @@ To execute this project you will need
 
 2- After installation, open the CMD and execute the command 'ruby -v'
 ![image](https://user-images.githubusercontent.com/50155338/109369573-96b9c680-787b-11eb-985b-ddaac5c33652.png)
+
+3 - Download Visual Studio Code at https://code.visualstudio.com/
