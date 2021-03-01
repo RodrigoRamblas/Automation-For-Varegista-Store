@@ -3,7 +3,7 @@ Test automation for varegista store  Objective: Add product to the cart, using P
 
 To execute this project you will need
 
-1- Download the Ruby language at https://rubyinstaller.org/downloads/
+1 - Download the Ruby language at https://rubyinstaller.org/downloads/
 ![image](https://user-images.githubusercontent.com/50155338/109369462-23b05000-787b-11eb-989e-32a8f7ce409f.png)
 
 2- After installation, open the CMD and execute the command 'ruby -v'
@@ -11,6 +11,9 @@ To execute this project you will need
 
 3 - Download Visual Studio Code at https://code.visualstudio.com/
 
-4- In cmd execute the command "gem install cucumber" 
+4 - In cmd execute the command "gem install cucumber" 
 ![image](https://user-images.githubusercontent.com/50155338/109442572-5c852c00-7a17-11eb-97cc-b0e3ead6ea5d.png)
+
+5 - In cmd execute the command "gem install rspec"
+![image](https://user-images.githubusercontent.com/50155338/109443093-72472100-7a18-11eb-926f-ed6eb9a6d58e.png)
 
