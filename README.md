@@ -17,6 +17,9 @@ To execute this project you will need
 5 - In cmd execute the command "gem install rspec"
 ![image](https://user-images.githubusercontent.com/50155338/109443093-72472100-7a18-11eb-926f-ed6eb9a6d58e.png)
 
-6 - Open cmd in the folder where the Gemfile file is and run the command "bundle install"
+6 - In cmd execute the command "gem install capybara"
+![image](https://user-images.githubusercontent.com/50155338/109445348-239c8580-7a1e-11eb-8ac4-a6bbe5a2fdc8.png)
+
+7 - Open cmd in the folder where the Gemfile file is and run the command "bundle install"
 ![image](https://user-images.githubusercontent.com/50155338/109444186-614bdf00-7a1b-11eb-9993-1c1e1b6ecb40.png)
 
