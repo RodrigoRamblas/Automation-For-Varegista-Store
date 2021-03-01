@@ -11,5 +11,6 @@ To execute this project you will need
 
 3 - Download Visual Studio Code at https://code.visualstudio.com/
 
-4- In cmd execute the command "gem install cucumber" ![image](https://user-images.githubusercontent.com/50155338/109442572-5c852c00-7a17-11eb-97cc-b0e3ead6ea5d.png)
+4- In cmd execute the command "gem install cucumber" 
+![image](https://user-images.githubusercontent.com/50155338/109442572-5c852c00-7a17-11eb-97cc-b0e3ead6ea5d.png)
 
