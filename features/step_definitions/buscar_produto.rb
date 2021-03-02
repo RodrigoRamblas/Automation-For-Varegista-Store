@@ -4,6 +4,3 @@ Quando('realizo a busca do produto') do
     sleep 5
 end
   
-Então('eu verifico se foi realizado a busca do produto') do
-    #expect(page).to have_xpath
-end
