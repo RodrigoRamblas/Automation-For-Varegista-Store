@@ -1,4 +1,4 @@
-class PaginaInicial< SitePrism::Page
+class PaginaInicial < SitePrism::Page
     set_url ''
     element :busca, '#strBusca'
     def preencher

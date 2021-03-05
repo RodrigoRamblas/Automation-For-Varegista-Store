@@ -1,6 +1,6 @@
 Quando('acesso a url') do
-    @home = PaginaInicial.new
-    @home.load
+    home.load
+    home.preencher
 end
   
 Então('eu verifico se estou na página correta') do
