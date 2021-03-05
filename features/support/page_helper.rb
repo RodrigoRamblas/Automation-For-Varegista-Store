@@ -7,7 +7,11 @@ module PageObjects
     end
 
     def buscar
-        @buscar ||= PaginaInicial.new
+        @buscar ||= BuscarProduto.new
+    end
+
+    def home
+        @contratacao ||= ContratacaoDosServicos.new
     end
 
 end
