@@ -1,0 +1,14 @@
+---
+
+default: --pretty-p homolog -p chrome -p html
+
+pretty: --format pretty
+progress: --format progress
+homolog: AMBIENTE=homolog
+producao: AMBIENTE=producao
+chrome: BROWSER=chrome
+firefox: BROWSER=firefox
+safari: BROWSER=safari
+ie: BROWSER=ie
+poltergeist: BROWSER=poltergeist
+html: --format html --out=reports/relatorio.html
